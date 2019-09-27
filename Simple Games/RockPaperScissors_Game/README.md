@@ -1,0 +1,2 @@
+# Rock Paper Scissors Game
+A simple command line Rock-Paper-Scissor Game, in which user gets the first chance to pick the option among Rock, paper and scissor. After that computer select from remaining two choices(randomly), then winner is decided as per the rules
