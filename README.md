@@ -1,2 +1,2 @@
 # Python
-This Is My Journey In Python 
+Hello EveryOne, This Is All What I Have Learnt In Python.
