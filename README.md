@@ -1,2 +1,3 @@
 # Python
-Hello EveryOne, This Is All What I Have Learnt In Python.
+Hello everyone... 
+This is all what I have learnt in Python.
